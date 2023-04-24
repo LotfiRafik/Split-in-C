@@ -52,8 +52,7 @@ char **split(char *string, char seperator, int* nb_tokens){
     *nb_tokens = 0;
 
     // First loop to find out how many tokens there is
-    while (i <= len){
-        j = 0;
+    while (i < len){
         while(i < len && string[i] != seperator){
             i++;
             j++;
