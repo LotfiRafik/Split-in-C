@@ -3,9 +3,7 @@
 * Program: Split Function in C
 * 
 * Description: A split function that splits a string into an array of substrings
-* based on separator character using C. This function is similar to the 
-* split function in Python. 
-* Can handle empty strings, multiple separators. 
+* based on separator character using C.
 * 
 *
 * Author: Lotfi Rafik Bouchafa
